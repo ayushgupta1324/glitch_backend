@@ -1,0 +1,20 @@
+{
+    "users": [
+        { "id": 1,"email":"nareshkumarh@live.com", 
+        "username":"Naresh", "password":"naresh123"
+        },
+        { "id": 2,"email":"tushant@gmail.com", 
+            "username":"Tushant", "password":"tushant123"
+        },
+        { "id": 3,"email":"ayush@gmail.com", 
+            "username":"", "password":"ayush123"
+        },
+        { "id": 4,"email":"ajay@gmail.com", 
+            "username":"Ajay", "password":"ajay123"
+        },
+        {
+            "id": 5,"email":"eve.holt@reqres.in", 
+            "username":"Eve", "password":"cityslicka"
+        }
+    ]
+}
